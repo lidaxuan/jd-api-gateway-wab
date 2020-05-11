@@ -1,0 +1,23 @@
+{
+  "rspCode": "000000000",
+  "rspMsg": "success",
+  "rspData": {
+      "list": [{
+        "id": "1",
+        "op_type": "1",
+        "op_content": "新增接口a1",
+        "operators": "wangwu",
+        "op_time": "2019-01-01 19:00:00"
+    },
+    {
+        "id": "2",
+        "op_type": "2",
+        "op_content": "修改入参、出参",
+        "operators": "zhangsan",
+        "op_time": "2019-01-01 19:00:01"
+    }
+      ],
+      "total": 100,
+      "status": 200
+  }
+}

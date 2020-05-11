@@ -1,0 +1,8 @@
+# router/*
+mock/*
+vue.config.js
+README.md
+src/assets/js/axios.js
+.eslintrc.js
+webpack.config.js
+src/assets/styles/*

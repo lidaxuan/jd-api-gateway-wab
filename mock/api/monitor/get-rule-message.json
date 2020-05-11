@@ -1,0 +1,19 @@
+{
+  "rspCode": "000000000",
+  "rspMsg": "success",
+  "rspData": {
+    "alarmOpen": 2,
+    "alarmName": "规则名称",
+    "alarmType": 1,
+    "alarmLevel": 2,
+    "timeUnit": 2,
+    "maxValue": 0.20,
+    "minValue": 1000.00,
+    "totalValue": 20,
+    "alarmSystemId": "1",
+    "administrator": "负责人",
+    "creator": "创建人",
+    "createdTime": "2020-03-05 06:34:53",
+    "modifiedTime": "2020-03-05 14:34:55"
+  }
+}

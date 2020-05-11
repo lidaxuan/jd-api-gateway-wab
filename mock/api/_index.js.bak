@@ -1,0 +1,16 @@
+/* jshint esversion: 6 */
+/*
+ * @Description: 登录
+ * @version:
+ * @Author: 李鑫（lixin758@jd.com）
+ * @Date: 2020-02-26 10:42:10
+ * @LastEditors: 李鑫（lixin758@jd.com）
+ * @LastEditTime: 2020-02-26 11:19:24
+ * @FilePath: \api-gateway-web\mock\api\_index.js
+ */
+exports.apis = [
+  {
+    path_name: '/user/login',
+    file_name: 'operator.json',
+  },
+];

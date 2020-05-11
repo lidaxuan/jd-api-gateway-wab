@@ -1,0 +1,9 @@
+{
+  "rspCode": "000000000",
+  "rspMsg":"success",
+  "rspData": [
+    { "value": 1, "key": "按分钟" },
+    { "value": 2, "key": "按小时" },
+    { "value": 3, "key": "按天" }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "rspCode": "000000000",
+  "rspMsg": "success",
+  "rspData": {
+      "list": [{
+          "api_code": "blacklist1",
+          "api_name": "黑名单接口",
+          "scene": {"levelA":"风控","levelB":"消金风控","levelC":"消金风控C"},
+          "publisher": "wangkai",
+          "chargePerson":"负责人",
+          "publishtime": "2019-08-09 18:00:00"
+      },
+      {
+          "api_code": "blacklist2",
+          "api_name": "黑名单接口",
+          "scene": {"levelA":"风控","levelB":"消金风控","levelC":"消金风控C"},
+          "publisher": "wangkai",
+          "chargePerson":"负责人",
+          "publishtime": "2019-08-09 20:00:00"
+      },
+      {
+          "api_code": "blacklist3",
+          "api_name": "黑名单接口",
+          "scene": {"levelA":"风控","levelB":"消金风控","levelC":"消金风控C"},
+          "publisher": "wangkai",
+          "chargePerson":"负责人",
+          "publishtime": "2019-08-09 19:00:00"
+      },
+      {
+          "api_code": "blacklist4",
+          "api_name": "黑名单接口",
+          "scene": {"levelA":"风控","levelB":"消金风控","levelC":"消金风控C"},
+          "publisher": "wangkai",
+          "chargePerson":"负责人",
+          "publishtime": "2019-08-11 19:00:00"
+      },
+      {
+          "api_code": "blacklist5",
+          "api_name": "黑名单接口",
+          "scene": {"levelA":"风控","levelB":"消金风控","levelC":"消金风控C"},
+          "publisher": "wangkai",
+          "chargePerson":"负责人",
+          "publishtime": "2019-08-10 19:00:00"
+      },
+      {
+          "api_code": "blacklist6",
+          "api_name": "黑名单接口",
+          "scene": {"levelA":"风控","levelB":"消金风控","levelC":"消金风控C"},
+          "publisher": "wangkai",
+          "chargePerson":"负责人",
+          "publishtime": "2019-08-09 19:00:00"
+      }
+      ],
+      "total": 100,
+      "status": 200
+  }
+}
